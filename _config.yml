@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Wlz Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: wlz
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wlz123-123.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,5 @@ theme: shoka
 deploy:
   type: git
   repo: https://github.com/wlz123-123/wlz123-123.github.io.git
-  branch: main
+  branch: master
+
